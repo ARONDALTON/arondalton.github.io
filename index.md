@@ -5,22 +5,37 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Building Science Basics For _Dummies_!
 
-dfsaasdf
-
 My dad always said that if you wanted to learn something new, start with a kids book and build on those new mental images.  So here is my first try to help others with building science!
 
-## Why do this?
+## Why do this? There are so many good reasons
 
 > Building energy use acounts for a huge amount of our energy use.
+>
+> ["Increasing energy efficiency in the U.S. has been much more impactful than most realize, and provides a wider [variety of benefits](https://www.iea.org/topics/energyefficiency/benefits/) beyond those typically measured or celebrated"](https://www.nexant.com/resources/benefits-energy-efficiency-go-beyond-saving-energy-and-money)
+>
+> ["new full-time job was created for every $57,000 spent on efficiency"](https://www.seealliance.org/wp-content/uploads/SEEA-EPS-EE-Report.pdf)
+>
+> Just energy eficiency standards like energy star, ["American consumers saved $63 billion on their utility bills in 2015 alone"](https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program).  Thats amazing in my mind.
+>
+> ["buildings account for some 35 percent of emissions throughout the developed world"](https://www.nrdc.org/experts/david-b-goldstein/ladder-ambition-zero-net-energy-zne-buildings)
+>
+> ["Building materials themselves contain an amount of emissions just to get to the building"](https://mantle314.com/insights/beyond-energy-efficiency)
 
-### what can make a difference
 
+
+
+
+[Link to another page](./another-page.html).
+
+## what can make a difference
+
+
+# Tools
+
+["eeCompass has easy-to-use tools that allow consumers to research, evaluate and compare covered products by brand and model, along with a number of other performance attributes."](https://www.regulations.doe.gov/eecompass)
 
 ```js
 // Javascript code with syntax highlighting.

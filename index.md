@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -10,21 +9,22 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Building Science Basics For _Dummies_!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+dfsaasdf
 
-## Header 2
+My dad always said that if you wanted to learn something new, start with a kids book and build on those new mental images.  So here is my first try to help others with building science!
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Why do this?
 
-### Header 3
+> Building energy use acounts for a huge amount of our energy use.
+
+### what can make a difference
+
 
 ```js
 // Javascript code with syntax highlighting.
-var fun = function lang(l) {
+vazr fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
@@ -39,42 +39,43 @@ end
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* This is an unordered list following a header.
+* This is an unordered list following a header.
+* This is an unordered list following a header.
 
 ##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1. This is an ordered list following a header.
+2. This is an ordered list following a header.
+3. This is an ordered list following a header.
 
 ###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+
+| head1 | head two | three |
+| :- | :- | :- |
+| ok | good swedish fish | nice |
+| out of stock | good and plenty | nice |
+| ok | good`oreos` | hmm |
+| ok | good`zoute` drop | yumm |
 
 ### There's a horizontal rule below this.
 
-* * *
+---
 
 ### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+* Item foo
+* Item bar
+* Item baz
+* Item zip
 
 ### And an ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1. Item one
+2. Item two
+3. Item three
+4. Item four
 
 ### And a nested list:
 
@@ -99,7 +100,6 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
